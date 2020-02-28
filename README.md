@@ -2,4 +2,4 @@
 
 the case of the dead sand mouse
 
-Jupyter notebook to compare the gene names in the two data files and examine rate of expression of genes.
+Jupyter notebook to compare the gene names in two data files and examine rate of expression of genes.
